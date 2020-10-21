@@ -52,3 +52,8 @@ https://github.com/BauerLab/VariantSpark
 
 https://github.com/BauerLab/VariantSpark/blob/master/doc/publications/BigData2015/Big%20Data2015_O'Brien.R1.pdf
 
+
+
+### Others
+https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources
+https://github.com/hussius/deeplearning-biology
